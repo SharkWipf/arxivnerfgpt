@@ -1,0 +1,25 @@
+Please list the authors and related stakeholders (companies, universities, instances, etc, sourced from the content or, if unavailable, from the authors' e-mail addresses) from the provided partial whitepaper in this format (obviously removing the placeholder data. Do preserve the line breaks.):
+
+```
+Topic: A short topic description.
+Novelty/Relevance: A short description on why this paper is significant.
+Conclusion: A short conclusion.
+
+
+Author: Foo Bar
+Author: Bar Baz
+Author: [...]
+
+
+Stakeholder: Umbrella Corp.
+Stakeholder: Feel Good Inc.
+Stakeholder: Big Brain Academy
+Stakeholder: [...]
+
+
+Misc: Anything else worth sharing, in short.
+
+
+```
+
+All entries (Topic, Novelty/Relevance, Conclusion, Author, Stakeholder, Misc) must each appear at least once (important!), but may appear multiple times as needed.
